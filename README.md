@@ -6,7 +6,7 @@
 - 📚 Bachelor in Computer Science student at UNIP, graduating in 2025.
 - 🌐 AWS Certified Cloud Practitioner since September 2023.
 - 🎓 Speaking Portuguese, English, Spanish, Italian, and German at various levels.
-- 🧑‍💻 Coding since 2016 with a passion for DevOps and cloud computing.
+- 🧑‍💻 Coding since 2019 with a passion for DevOps and cloud computing.
 
 ## 💼 Experience
 ### Asaas (Since Nov 2023)
