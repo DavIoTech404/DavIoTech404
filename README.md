@@ -24,11 +24,6 @@
 ## 📚 Education
 - 🎓 Bachelor in Computer Science, UNIP, Expected 2025.
 
-## 🏅 Honors & Awards
-- 🥈 2nd Place at 8th WorldSkills Russia Invited Countries, IoT, 2020.
-- 🏅 4th Place at BRICS FutureSkills Challenge, IoT, 2020.
-- 🥈 2nd Place at Desafio SESI SENAI: Solving challenges of the Brazilian industry with AI, Veterans category, 2021.
-
 ## 🌐 Languages
 - 🇧🇷 Portuguese (Native)
 - 🇺🇸 English (You be the judge! 😉)
