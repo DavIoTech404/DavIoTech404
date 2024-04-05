@@ -33,5 +33,5 @@
 
 ---
 
-I'm always on the lookout for new technologies and practices in the DevOps realm. Feel free to reach out for collaborations or just a chat about cloud infrastructure and DevOps trends!
+I'm always on the lookout for new technologies and practices in the DevOps realm. Feel free to reach out for collaborations, opportunities, or just a chat about tech and DevOps trends. Connect with me on [LinkedIn](https://www.linkedin.com/in/davi-medeiros-oliveira/).
 
