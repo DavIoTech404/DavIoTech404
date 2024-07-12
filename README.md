@@ -5,6 +5,7 @@
 - 🌎 Living in Ribeirão Preto, Brazil.
 - 📚 Bachelor in Computer Science student at UNIP, graduating in 2025.
 - 🌐 AWS Certified Cloud Practitioner since September 2023.
+- 🏅 AWS Certified Solutions Architect Associate since July 2024.
 - 🎓 Speaking Portuguese, English, Spanish, Italian, and German at various levels.
 - 🧑‍💻 Coding since 2019 with a passion for DevOps and cloud computing.
 
