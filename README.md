@@ -28,8 +28,8 @@
 ## 🌐 Languages
 - 🇧🇷 Portuguese (Native)
 - 🇺🇸 English (You be the judge! 😉)
+- 🇮🇹 Italian (Near professional)
 - 🇪🇸 Spanish (Near professional)
-- 🇮🇹 Italian (Limited working)
 - 🇩🇪 German (Elementary)
 
 ---
