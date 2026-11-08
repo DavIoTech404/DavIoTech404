@@ -55,3 +55,4 @@ AWS Certified **DevOps Engineer – Professional** · **Security – Specialty**
 
 [LinkedIn](https://www.linkedin.com/in/davi-medeiros-oliveira/)
 · [DevOps Professional credential](https://www.credly.com/badges/b92db633-9c72-404a-98c2-d8800a203b1d/public_url)
+· [Security Specialty credential](https://www.credly.com/badges/62cd0810-1663-47d7-8bc3-3bc8d4354104/public_url)
