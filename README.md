@@ -55,4 +55,4 @@ me figure things out.
 
 AWS Certified **[DevOps Engineer – Professional](https://www.credly.com/badges/b92db633-9c72-404a-98c2-d8800a203b1d/public_url)** · **[Security – Specialty](https://www.credly.com/badges/62cd0810-1663-47d7-8bc3-3bc8d4354104/public_url)** · **[Solutions Architect – Associate](https://www.credly.com/badges/d5142a28-bc01-444b-896a-ea0673acc52f/public_url)**
 
-[LinkedIn](https://www.linkedin.com/in/davi-medeiros-oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/davi-medeiros-oliveira/)
