@@ -37,7 +37,7 @@ or a recovery procedure meets reality.
 
 ## At the terminal
 
-| | |
+| Area | Tools |
 | :--- | :--- |
 | Languages | Python · Bash · Java |
 | Infrastructure | AWS · CDK · CloudFormation · Terraform |
@@ -52,9 +52,6 @@ me figure things out.
 
 ---
 
-AWS Certified **DevOps Engineer – Professional** · **Security – Specialty**
-· **Solutions Architect – Associate**
+AWS Certified **[DevOps Engineer – Professional](https://www.credly.com/badges/b92db633-9c72-404a-98c2-d8800a203b1d/public_url)** · **[Security – Specialty](https://www.credly.com/badges/62cd0810-1663-47d7-8bc3-3bc8d4354104/public_url)** · **Solutions Architect – Associate**
 
 [LinkedIn](https://www.linkedin.com/in/davi-medeiros-oliveira/)
-· [DevOps Professional credential](https://www.credly.com/badges/b92db633-9c72-404a-98c2-d8800a203b1d/public_url)
-· [Security Specialty credential](https://www.credly.com/badges/62cd0810-1663-47d7-8bc3-3bc8d4354104/public_url)
