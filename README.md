@@ -37,7 +37,7 @@ or a recovery procedure meets reality.
 
 | | |
 | :--- | :--- |
-| Languages | Python · Bash |
+| Languages | Python · Bash · Java |
 | Infrastructure | AWS · CDK · CloudFormation · Terraform |
 | Containers | Docker · ECS/Fargate · ECR |
 | Delivery | GitHub Actions · CodePipeline · CodeBuild · CodeDeploy |
