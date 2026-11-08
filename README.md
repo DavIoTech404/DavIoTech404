@@ -1,38 +1,57 @@
-# Hello, World! 👋 I'm Davi 🇧🇷
+# Davi Medeiros Oliveira
 
-## About Me
-- 🚀 DevOps/SRE Engineer with a focus on AWS and cloud infrastructure.
-- 🌎 Living in Ribeirão Preto, Brazil.
-- 📚 Bachelor in Computer Science student at UNIP, graduating in 2025.
-- 🌐 AWS Certified Cloud Practitioner since September 2023.
-- 🏅 AWS Certified Solutions Architect Associate since July 2024.
-- 🎓 Speaking Portuguese, English, Spanish, Italian, and German at various levels.
-- 🧑‍💻 Coding since 2019 with a passion for DevOps and cloud computing.
+**Cloud infrastructure · Automation · Security**
 
-## 💼 Experience
-### Asaas (Since Nov 2023)
-- 💻 DevOps/SRE Engineer, utilizing AWS CDK for infrastructure as code and ensuring high availability and security of systems.
-- 📊 Involved in monitoring, alerting, and automating CI/CD pipelines, in close collaboration with development teams.
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-### Telegen (Aug 2022 - Oct 2023)
-- 💡 Focused on AWS cloud infrastructure and serverless applications.
-- 🔄 Managed CI/CD pipelines and implemented IaC using AWS CloudFormation.
+I work on cloud infrastructure and security at
+[Asaas](https://www.asaas.com/).
 
-### Envisia (Jan 2021 - Aug 2022)
-- 🚀 Transitioned from Java Backend Developer to DevOps Engineer.
-- 🛠️ Specialized in AWS, Java, Spring Framework, MQTT, and MySQL.
+Started with backend development and Linux administration.
+These days I mostly write Python, build infrastructure, automate
+deployments, and investigate why something that should work doesn't.
 
-## 📚 Education
-- 🎓 Bachelor in Computer Science, UNIP, Expected 2025.
+## Things I like working on
 
-## 🌐 Languages
-- 🇧🇷 Portuguese (Native)
-- 🇺🇸 English (You be the judge! 😉)
-- 🇮🇹 Italian (Near professional)
-- 🇪🇸 Spanish (Near professional)
-- 🇩🇪 German (Elementary)
+**Infrastructure as software**  
+Reusable CDK constructs, deployment tooling, and automation that
+makes operating infrastructure less dependent on manual intervention.
+
+**The container lifecycle**  
+Everything between a Dockerfile and a production deployment:
+base images, registries, scanning, signatures, promotion, and recovery.
+
+**Security that runs**  
+IAM boundaries, pipeline checks, secrets management, and controls
+implemented alongside the systems they protect.
+
+**The failure path**  
+What happens when a dependency is unavailable, a deployment fails,
+or a recovery procedure meets reality.
+
+## At the terminal
+
+| | |
+| :--- | :--- |
+| Languages | Python · Bash |
+| Infrastructure | AWS · CDK · CloudFormation · Terraform |
+| Containers | Docker · ECS/Fargate · ECR |
+| Delivery | GitHub Actions · CodePipeline · CodeBuild · CodeDeploy |
+| Operations | Linux · CloudWatch · CloudTrail · Datadog |
+
+## Away from the terminal
+
+Lifting, Brazilian jiu-jitsu, rock and metal, and games that make
+me figure things out.
 
 ---
 
-I'm always on the lookout for new technologies and practices in the DevOps realm. Feel free to reach out for collaborations, opportunities, or just a chat about tech and DevOps trends. Connect with me on [LinkedIn](https://www.linkedin.com/in/davi-medeiros-oliveira/).
+AWS Certified **DevOps Engineer – Professional** · **Security – Specialty**
+· **Solutions Architect – Associate**
 
+[LinkedIn](https://www.linkedin.com/in/davi-medeiros-oliveira/)
+· [DevOps Professional credential](https://www.credly.com/badges/b92db633-9c72-404a-98c2-d8800a203b1d/public_url)
