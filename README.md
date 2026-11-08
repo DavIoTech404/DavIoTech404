@@ -15,6 +15,8 @@ Started with backend development and Linux administration.
 These days I mostly write Python, build infrastructure, automate
 deployments, and investigate why something that should work doesn't.
 
+Based in Brazil · Portuguese & English · Spanish conversational
+
 ## Things I like working on
 
 **Infrastructure as software**  
