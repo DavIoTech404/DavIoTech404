@@ -44,7 +44,7 @@ or a recovery procedure meets reality.
 | Containers | Docker · ECS/Fargate · ECR |
 | Delivery | GitHub Actions · CodePipeline · CodeBuild · CodeDeploy |
 | Operations | Linux · CloudWatch · CloudTrail · Datadog |
-| Security | Wiz |
+| Security | Wiz · GuardDuty · Security Hub · Inspector · IAM · WAF · Secrets Manager |
 
 ## Away from the terminal
 
